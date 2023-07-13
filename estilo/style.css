@@ -36,7 +36,6 @@ header > h1 {
 }
 header > p {
     padding: 50px;
-    font-size: 3em;
 }
 /* Links -----------------------------*/
 header a, footer a {
@@ -92,6 +91,5 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 10px;
-    font-size: 3em;
+    padding: 10px;    
 }
